@@ -1,2 +1,2 @@
 # Panny-pan
-[![Watch the video](https://placehold.co/600x400/EEE/31343C)](https://youtu.be/zFm5E4ld5Qk)
+[![Click image for the video](https://img.youtube.com/vi/zFm5E4ld5Qk/maxresdefault.jpg)](https://youtu.be/zFm5E4ld5Qk)
